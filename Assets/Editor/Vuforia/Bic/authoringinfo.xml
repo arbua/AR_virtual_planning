@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="9.8.5">
+<ModelTarget name="Bic" targetId="0064395681e14b46ae3526daab488d89" version="11.1" toolVersion="9.8.5" bbox="-0.003773 -0.077162 -0.004814 0.003720 0.068263 0.004814" previewImage="0064395681e14b46ae3526daab488d89_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Bics_assembly" assemblyId="baf87041046b498cb277316060ee68d7">
+<Part name="Bic" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.00443986 4.62858e-05 0.182284" rotation="AD: -0.9999999986987632 1.0021842701030732 -0.00007214531539096872 174.651" image="Bic_viewpoint_0000.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0001" translation="-0.00443986 4.62858e-05 0.134185" rotation="AD: -0.9999999986987632 1.0021842701030732 -0.00007214531539096872 174.651" image="Bic_viewpoint_0001.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="CoffeeCup" motionHint="static" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="CoffeeCups_assembly" assemblyId="33ea867de4de406599bfaad0d612b9ec">
+<Part name="CoffeeCup" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.0457922 0.121717 0.752195" rotation="AD: 0.9989128815470257 0.10565099481730816 -0.5044767168021083 201.086" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0001" translation="-0.0394058 0.0893397 0.8232" rotation="AD: -0.8931882743690832 -0.4966952665770663 2.2200746300737015 170.651" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

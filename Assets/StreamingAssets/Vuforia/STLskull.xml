@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="STLskull" motionHint="static" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="STLskulls_assembly" assemblyId="caaebc99e3174c9a9276104b36d1e46c">
+<Part name="STLskull" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="0.0283267 0.0349543 0.236514" rotation="AD: 0.9997503614220603 0.18542841209905928 -0.1632238730713549 98.9688" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0002" translation="0.00966414 0.0387744 0.318453" rotation="AD: 0.9999999997188241 0.005814202938869475 -0.005723164602639328 90.9061" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0003" translation="0.00966414 0.0387744 0.318453" rotation="AD: 0.9999999997188241 0.005814202938869475 -0.005723164602639328 90.9061" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

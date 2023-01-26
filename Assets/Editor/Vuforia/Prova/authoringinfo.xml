@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="9.8.5">
+<ModelTarget name="Prova" targetId="4e9864a07d9546c5a34b102d319b45b3" version="11.1" toolVersion="9.8.5" bbox="-0.088588 -0.114344 -0.140865 0.083198 0.119122 0.077997" previewImage="4e9864a07d9546c5a34b102d319b45b3_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Provas_assembly" assemblyId="dc87aea3baf54236b53fc0a9ea312c51">
+<Part name="Prova" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.00302553 -0.0309885 0.44838" rotation="AD: 0.999999999828321 -0.00474202302525977 -0.005260827104243365 95.9395" image="Prova_viewpoint_0001.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

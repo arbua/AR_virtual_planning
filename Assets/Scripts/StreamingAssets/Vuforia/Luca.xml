@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Luca" motionHint="static" trackingMode="scan"/>
+
+</Tracking>
+
+<Assembly name="Lucas_assembly" assemblyId="2c63f623c24349688ef9dbe39f724004">
+<Part name="Luca" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.166517 0.085926 0.515264" rotation="AD: 0.9997996455078935 0.07487078988755655 -0.28740357820153833 208.043" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0001" translation="0.0305384 -0.0318803 0.387926" rotation="AD: 0.9999999993850262 -0.0012785524347830803 0.027469988292291615 185.328" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0003" translation="0.0305384 -0.0318803 0.433903" rotation="AD: 0.9999999993850262 -0.0012785524347830803 0.027469988292291615 185.328" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0004" translation="0.204294 0.038648 0.144204" rotation="AD: 0.9999662859096582 -0.027528095202712623 0.3138263800085341 189.565" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0005" translation="-0.211774 0.0119869 0.156616" rotation="AD: 0.9999879276783425 0.014411528006811433 -0.36300820619729407 184.274" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

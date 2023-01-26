@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="9.8.5">
+<ModelTarget name="STLskull" targetId="d86a8ae5d7774fc6b16f5c7e46d74fb4" version="11.1" toolVersion="9.8.5" bbox="-0.058145 -0.119817 -0.014715 0.082688 0.025724 0.095301" previewImage="d86a8ae5d7774fc6b16f5c7e46d74fb4_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="STLskulls_assembly" assemblyId="caaebc99e3174c9a9276104b36d1e46c">
+<Part name="STLskull" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="0.0283267 0.0349543 0.236514" rotation="AD: 0.9997503614220603 0.18542841209905928 -0.1632238730713549 98.9688" image="STLskull_viewpoint_0001.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0002" translation="0.00966414 0.0387744 0.318453" rotation="AD: 0.9999999997188241 0.005814202938869475 -0.005723164602639328 90.9061" image="STLskull_viewpoint_0002.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0003" translation="0.00966414 0.0387744 0.318453" rotation="AD: 0.9999999997188241 0.005814202938869475 -0.005723164602639328 90.9061" image="STLskull_viewpoint_0003.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
